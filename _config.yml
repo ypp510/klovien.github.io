@@ -99,9 +99,9 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "vx：Yangpang510"
+        title: vx：Yangpang510
     },{
-        title: "qq：737897763"
+        title: qq：737897763
     },{
         title: "抖音：一昂杨",
         href: "https://www.douyin.com/user/MS4wLjABAAAAKY8_MQZluEQxbnl2y53so9m_3Zacts_XeeUyfBNYI1Y"
