@@ -101,9 +101,13 @@ friends: [
     {
         title: vx：Yangpang510
     },{
-        title: qq：737897763
+        title: "qq：737897763",
+        href: "https://qm.qq.com/q/aizG9vMgZa"
     },{
         title: "抖音：一昂杨",
         href: "https://www.douyin.com/user/MS4wLjABAAAAKY8_MQZluEQxbnl2y53so9m_3Zacts_XeeUyfBNYI1Y"
-    }
+    },{
+    title: "51server",
+      href: "http://yangpang.51server.top/"
+  }
 ]
